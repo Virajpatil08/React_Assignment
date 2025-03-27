@@ -21,11 +21,14 @@ Copy
 Edit
 git clone https://github.com/Virajpatil08/React_Assignment.git
 cd React_Assignment
+
+
 2️⃣ Install Dependencies
 bash
 Copy
 Edit
 npm install
+
 3️⃣ Start the Development Server
 bash
 Copy
