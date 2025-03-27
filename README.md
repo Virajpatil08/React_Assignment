@@ -1,6 +1,7 @@
 React Secure Login App
 This is a React-based login application with secure password encryption using CryptoJS, smooth UI animations, and real-time form validation. It features Tailwind CSS for styling and React Toastify for notifications.
 
+Deploy Link (vercel) : https://react-assignment-lemon-seven.vercel.app/
 
 | Library             | Purpose |
 |--------------------|---------|
